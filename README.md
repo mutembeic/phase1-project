@@ -64,6 +64,7 @@ By analyzing these factors, we can help aviation stakeholders make safer investm
 - `AviationData.csv` : The raw dataset.
 - `USState_Codes.csv` : Supplementary dataset for state codes.
 - `visualizations/` : Folder containing saved images of key charts.
+- `Presentation,pdf/` : contains slides for presentation
 
 
 This project provides a data-driven approach to identifying safe aircraft investments by analyzing historical accident data and visualizing key trends.
