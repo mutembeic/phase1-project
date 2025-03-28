@@ -68,10 +68,10 @@ By analyzing these factors, we can help aviation stakeholders make safer investm
 
 This project provides a data-driven approach to identifying safe aircraft investments by analyzing historical accident data and visualizing key trends.
 
-![Aircraft Accidents Trend](visualizations/Sheet_1.png)
+![Aircraft Accidents by Make](visualizations/Sheet_1.png)
 
-![Riskiest Flight Phases](visualizations/Sheet_2.png)
+![Impact of Weather Conditions](visualizations/Sheet_2.png)
 
-![Impact of Weather Conditions](visualizations/Sheet_3.png)
+![Riskiest Flight Phase](visualizations/Sheet_3.png)
 
-![Accidents by Aircraft Make](visualizations/Sheet_4.png)
+![Aircraft Accidents Trends over time ](visualizations/Sheet_4.png)
